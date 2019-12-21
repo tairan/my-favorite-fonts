@@ -3,3 +3,4 @@
 - Cascadia Code
 - Dejavu
 - Source Code Pro
+- Audiowide
