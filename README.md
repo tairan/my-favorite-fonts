@@ -1,6 +1,7 @@
 # My Favorite Fonts
 
-- Cascadia Code
-- Dejavu
-- Source Code Pro
-- Audiowide
+- [x] Cascadia Code
+- [x] Dejavu
+- [x] Source Code Pro
+- [x] Audiowide
+- [x] JetBrains Mono
